@@ -1,0 +1,17 @@
+{
+    "name": "tian/larajaongkir",
+    "description": "Raja Ongkir API for Laravel 5",
+    "keywords": ["package", "laravel", "raja ongkir"],
+    "license": "MIT",
+    "type": "package",
+    "require": {
+        "guzzlehttp/guzzle": "~6.0"
+    },
+    "authors": [
+        {
+            "name": "Tian",
+            "email": "ccseptian@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
